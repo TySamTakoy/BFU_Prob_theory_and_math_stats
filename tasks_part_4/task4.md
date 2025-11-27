@@ -34,13 +34,7 @@ $p_2=\frac{3⋅2}{4⋅5}⋅0,588=0,177$
 4 строка - $p_1$;
 5 строка - $p_0$)
 
-  \begin{pmatrix}
-    0	& 0	& 0 &	0	& 0 \\
-    0	& 0	& 0	& 174	& 46 \\
-    0	& 0	& 22	& -2	& 2 \\
-    0	& 3	& -23	& 4	& 0 \\
-    5	& 0 & -4	& 0	& 0 \
-  \end{pmatrix}
+<img width="220" height="142" alt="image" src="https://github.com/user-attachments/assets/0dbb32bd-41b1-467f-b2a3-d45d368aab31" />
 
 Определим $p_0 ... p_4$:
 
