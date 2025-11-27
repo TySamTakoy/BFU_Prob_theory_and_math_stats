@@ -12,3 +12,4 @@
 
 `Коэффициенты полученные МНК: f_mnk(x) = -0.77 x + -6.391`
 
+<img width="549" height="408" alt="image" src="https://github.com/user-attachments/assets/6f08a1a4-3e8d-4fe6-b55f-669e4968f87b" />
